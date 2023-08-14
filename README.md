@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Stress detection
 This program aims to classify texts as stressed or not using nltk and sklearn.
 
